@@ -24,3 +24,10 @@ So far I've had two full-stack developer internships.
 
 * On the second one I cooperated with another developer and developed a learning and grading system  from scratch. I used Django with SQLite for the back-end and React for the front-end.
 ___
+### Education & Courses
+**2022 - Present** - The Odin Project
+
+**2022 - Present** - The Rolling Scopes School
+
+**2017 - 2022** - Kaunas University of Technology, Program Systems
+___
