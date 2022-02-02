@@ -31,3 +31,10 @@ ___
 
 **2017 - 2022** - Kaunas University of Technology, Program Systems
 ___
+### Language Skills
+|Language|Level|
+|--------|----|
+|Lithuanian|Native|
+|English|C1|
+|Russian|B1|
+___
