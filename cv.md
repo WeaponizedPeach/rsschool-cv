@@ -17,3 +17,10 @@ ___
 * HTML, CSS, JS fundamentals
 * Docker
 ___
+### Experience
+So far I've had two full-stack developer internships.
+
+* On the first I spent time translating a Photoshop design to HTML + CSS, hooking it up to Symfony Framework and customizing the back-end to fit the client's needs.
+
+* On the second one I cooperated with another developer and developed a learning and grading system  from scratch. I used Django with SQLite for the back-end and React for the front-end.
+___
